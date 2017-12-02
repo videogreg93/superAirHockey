@@ -1,0 +1,6 @@
+framework module Pods_clientLeger {
+  umbrella header "Pods-clientLeger-umbrella.h"
+
+  export *
+  module * { export * }
+}
