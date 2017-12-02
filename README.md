@@ -1,6 +1,16 @@
-# Super Air Hockey 3001
+# Super Air Hockey 3001 - A cross platform air hockey app
 
-Super Air Hockey was my third year project at university. I was tasked with creating an IOS version of an existing game on Windows. We also had to implement many new features, such as a map editing mode which was playable online with other IOS users and also Windows clients. This was a big project considering we had to support cross-platform play and me and my partner had never done any IOS programming beforehand. The end result was a very playable app packed with features.
+![Title screen](https://github.com/videogreg93/superAirHockey/blob/master/images/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(9.7-inch)%20-%202017-12-02%20at%2013.24.48.png)
+
+![Editing Mode](https://github.com/videogreg93/superAirHockey/blob/master/images/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(9.7-inch)%20-%202017-12-02%20at%2013.24.59.png)
+<p align="center">Create and edit maps offline and online with other users</p>
+
+![Play Mode](https://github.com/videogreg93/superAirHockey/blob/master/images/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(9.7-inch)%20-%202017-12-02%20at%2013.25.47.png)
+<p align="center">Play in your created maps with a friend locally or against the AI</p>
+
+  
+  
+   Super Air Hockey was my third year project at university. I was tasked with creating an IOS version of an existing game on Windows. We also had to implement many new features, such as a map editing mode which was playable online with other IOS users and also Windows clients. This was a big project considering we had to support cross-platform play and me and my partner had never done any IOS programming beforehand. The end result was a very playable app packed with features.
 
 ## Getting Started
 
